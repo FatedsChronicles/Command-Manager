@@ -1,0 +1,9 @@
+.vs/
+.dotnet-cli-home/
+**/bin/
+**/obj/
+*.user
+*.suo
+*.nupkg
+artifacts/
+
